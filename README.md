@@ -1,5 +1,5 @@
 # 🎯 Projectile Motion Simulator
-### Built with Processing (Java) · Grade 12 Physics & Computer Science Project
+### Built with Processing (Java) · Physics & Computer Science Project
 
 A fully interactive 2D projectile motion simulator with a real-time GUI, two distinct simulation modes, and live kinematic readouts. Designed to bridge physics theory and visual computation — you can watch the math play out in real time.
 
